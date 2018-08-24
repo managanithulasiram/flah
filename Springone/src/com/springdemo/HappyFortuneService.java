@@ -6,7 +6,6 @@ public class HappyFortuneService implements FortuneService {
 	public String getFortune() {
 		// TODO Auto-generated method stub
 		
-		
 		return "To day is lucky day";
 	}
 

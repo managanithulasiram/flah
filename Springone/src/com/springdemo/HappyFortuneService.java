@@ -8,6 +8,7 @@ public class HappyFortuneService implements FortuneService {
 		// TODO Auto-generated method stub
 		return "To day is lucky day";
 		
+		
 	}
 
 }
